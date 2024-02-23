@@ -2,6 +2,8 @@
 Author- Suhani Jagotra
 
 
+This website template for MyOnlineMeals.com employs HTML for structuring content, CSS for styling elements, and JavaScript for interactivity. It utilizes semantic tags, media queries, and flexbox for responsiveness. Images, background images, and Google Fonts enhance visual appeal. Form elements facilitate user interaction and feedback collection.
+
 This is a website template for an online food delivery service in India called MyOnlineMeals.com. The website is designed to provide information about the company's services, cater to potential customers, and offer a platform for contacting the company.
 
 The homepage (section id="home") welcomes visitors with a prominent heading and introductory text. It also includes a call-to-action button prompting users to order food. The background image adds visual appeal to the page.
